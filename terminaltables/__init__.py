@@ -13,7 +13,7 @@ from terminaltables.other_tables import DoubleTable  # noqa
 from terminaltables.other_tables import SingleTable  # noqa
 from terminaltables.other_tables import UnicodeSingleTable  # noqa
 from terminaltables.other_tables import PorcelainTable  # noqa
-
+from terminaltables.width_and_alignment import SEPARATOR # noqa
 
 __author__ = '@Robpol86'
 __license__ = 'MIT'
